@@ -38,4 +38,3 @@ Esta é uma landing page profissional e empática desenvolvida para a **Funerár
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
-
